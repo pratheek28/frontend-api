@@ -47,3 +47,9 @@
     ```
 
 - Submit your GitHub Classroom assignment, ensuring that you include both the repository and live deployment links.
+
+- Was unable to deploy it on vercel, because of an error that said:
+"Failed to compile.
+Module not found: Error: Can't resolve './index.css' in '/vercel/path0/src'
+Error: Command "npm run build" exited with 1"
+I went to the office hours and Nishant tried helping me, but was unsuccessful. He told me just submit what I have on github and write this message.
