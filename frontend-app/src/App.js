@@ -1,5 +1,7 @@
 import react, { useState, useEffect } from 'react';
 import Welcome from "./Welcome";
+import './index.css';
+import './App.css';
 import Barca from './barca.jpeg';
 import Gym from './gym.jpeg';
 
